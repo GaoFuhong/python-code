@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<personinfolist>
+    <personinfo enrolled="yes">
+        <name>Fuhong Gao</name>
+        <age checked="no">22</age>
+        <sex>male</sex>
+    </personinfo>
+    <personinfo enrolled="no">
+        <name>Xiao Gu</name>
+        <age>18</age>
+        <sex>female</sex>
+    </personinfo>
+</personinfolist>

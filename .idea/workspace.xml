@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf283002-c462-49bb-8eee-0ab7c3e5737c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PycharmProjects$exception_handling.coverage" NAME="exception_handling Coverage Results" MODIFIED="1535708453062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_for_func_test5_test.coverage" NAME="pytest for func_test5.test Coverage Results" MODIFIED="1533022606129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$global_variable.coverage" NAME="global_variable Coverage Results" MODIFIED="1533086787146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$static_method.coverage" NAME="static_method Coverage Results" MODIFIED="1535337492477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$property_method.coverage" NAME="property_method Coverage Results" MODIFIED="1535358642139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$_3level_menus.coverage" NAME="_3level_menus Coverage Results" MODIFIED="1532510982961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$logger.coverage" NAME="logger Coverage Results" MODIFIED="1535168129375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4/study-atm/atm/core" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$copy_test.coverage" NAME="copy_test Coverage Results" MODIFIED="1533112944566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$rsa_ex.coverage" NAME="rsa_ex Coverage Results" MODIFIED="1538480334904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hello.coverage" NAME="hello Coverage Results" MODIFIED="1530187051892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1532510543915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$json_deserialization2.coverage" NAME="json_deserialization2 Coverage Results" MODIFIED="1533461511290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gevent_socket_client.coverage" NAME="gevent_socket_client Coverage Results" MODIFIED="1539398039585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$xml_handle.coverage" NAME="xml_handle Coverage Results" MODIFIED="1533980056795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$with_1.coverage" NAME="with_1 Coverage Results" MODIFIED="1532924187925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socketserver_base.coverage" NAME="socketserver_base Coverage Results" MODIFIED="1536305998149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study8" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$aes.coverage" NAME="aes Coverage Results" MODIFIED="1542269311951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$atm.coverage" NAME="atm Coverage Results" MODIFIED="1535168225642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4/study-atm/atm/bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$shelve_test.coverage" NAME="shelve_test Coverage Results" MODIFIED="1533979023744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$get_process_id.coverage" NAME="get_process_id Coverage Results" MODIFIED="1537067422366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$set.coverage" NAME="set Coverage Results" MODIFIED="1532686281173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_for_greenlet_coroutine_test2.coverage" NAME="pytest for greenlet_coroutine.test2 Coverage Results" MODIFIED="1537158424890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$atm__3_.coverage" NAME="atm (3) Coverage Results" MODIFIED="1533607667905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5/atm1/bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$shopping_cart.coverage" NAME="shopping_cart Coverage Results" MODIFIED="1532437825215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$greenlet_coroutine.coverage" NAME="greenlet_coroutine Coverage Results" MODIFIED="1538466275448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1535167919100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study6/day5-atm/atm/core" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$queue_ex.coverage" NAME="queue_ex Coverage Results" MODIFIED="1537005405597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study9" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$getitem_setitem_delitem.coverage" NAME="getitem_setitem_delitem Coverage Results" MODIFIED="1535359026874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hashlib_module.coverage" NAME="hashlib_module Coverage Results" MODIFIED="1534125397039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ftp_client__1_.coverage" NAME="ftp_client (1) Coverage Results" MODIFIED="1536402458085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study8/code/ftp_client" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pickle_deserialization.coverage" NAME="pickle_deserialization Coverage Results" MODIFIED="1533460581965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$with_.coverage" NAME="with_ Coverage Results" MODIFIED="1532924455655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lists.coverage" NAME="lists Coverage Results" MODIFIED="1532348465088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$recursive_function.coverage" NAME="recursive_function Coverage Results" MODIFIED="1533097642181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket_server_ssh.coverage" NAME="socket_server_ssh Coverage Results" MODIFIED="1536202969696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study8" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$json_serialization2.coverage" NAME="json_serialization2 Coverage Results" MODIFIED="1533461238389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket_server_client.coverage" NAME="socket_server_client Coverage Results" MODIFIED="1536202976332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study8" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ftp_client.coverage" NAME="ftp_client Coverage Results" MODIFIED="1536403432950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study8/ftp_client" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ssh.coverage" NAME="ssh Coverage Results" MODIFIED="1536558859235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study9" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$os_tests.coverage" NAME="os_tests Coverage Results" MODIFIED="1534151484997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$red_green_light.coverage" NAME="red_green_light Coverage Results" MODIFIED="1536984483460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study9" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$encode.coverage" NAME="encode Coverage Results" MODIFIED="1533123273820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$example_property_method.coverage" NAME="example_property_method Coverage Results" MODIFIED="1535336065506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ftp_client__2_.coverage" NAME="ftp_client (2) Coverage Results" MODIFIED="1536455093619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study8/ftp_client/core" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$multiprocessing.coverage" NAME="multiprocessing Coverage Results" MODIFIED="1537064694980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$__new__.coverage" NAME="__new__ Coverage Results" MODIFIED="1535368934110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$password.coverage" NAME="password Coverage Results" MODIFIED="1532161797691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$base_ex.coverage" NAME="base_ex Coverage Results" MODIFIED="1537861459855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$os_mod.coverage" NAME="os_mod Coverage Results" MODIFIED="1532244184045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1535183289218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study6/subject_system/bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$customize_exception.coverage" NAME="customize_exception Coverage Results" MODIFIED="1535716481350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$index.coverage" NAME="index Coverage Results" MODIFIED="1535338211846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$aa.coverage" NAME="aa Coverage Results" MODIFIED="1535338179375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7/lib" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$heigher_order_function.coverage" NAME="heigher_order_function Coverage Results" MODIFIED="1533180389648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1536455090572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study8/ftp_server/core" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$db_handler.coverage" NAME="db_handler Coverage Results" MODIFIED="1533558645360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5/atm/core" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$05__.coverage" NAME="第05周作业-计算器-复杂的表达式计算 Coverage Results" MODIFIED="1534333177096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study6" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$class_method.coverage" NAME="class_method Coverage Results" MODIFIED="1535337521205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$file_op.coverage" NAME="file_op Coverage Results" MODIFIED="1532916288285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$atm__2_.coverage" NAME="atm (2) Coverage Results" MODIFIED="1533608150166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-atm/atm/bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$inherit_many_times.coverage" NAME="inherit_many_times Coverage Results" MODIFIED="1535096883934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study6" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ddecorator3.coverage" NAME="ddecorator3 Coverage Results" MODIFIED="1533201041187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1536128338983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Internet_worm.coverage" NAME="Internet_worm Coverage Results" MODIFIED="1537185000839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket_server_file.coverage" NAME="socket_server_file Coverage Results" MODIFIED="1536236962071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study8" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$shutil_tests.coverage" NAME="shutil_tests Coverage Results" MODIFIED="1533975250966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$manager_ex.coverage" NAME="manager_ex Coverage Results" MODIFIED="1537080966295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$str_bytes.coverage" NAME="str_bytes Coverage Results" MODIFIED="1532264472081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$inherit.coverage" NAME="inherit Coverage Results" MODIFIED="1535084945497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study6" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$water1.coverage" NAME="water1 Coverage Results" MODIFIED="1542206592661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$threading_ex4_lock.coverage" NAME="threading_ex4_lock Coverage Results" MODIFIED="1536916148492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study9" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lookpicture__1_.coverage" NAME="lookpicture (1) Coverage Results" MODIFIED="1552211740237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lookpicture_program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$p_test.coverage" NAME="p_test Coverage Results" MODIFIED="1533694923262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$progress_bar.coverage" NAME="progress_bar Coverage Results" MODIFIED="1532856283039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$time_tests.coverage" NAME="time_tests Coverage Results" MODIFIED="1534150220019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$for_for.coverage" NAME="for_for Coverage Results" MODIFIED="1532182434385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1536306000229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$coding.coverage" NAME="coding Coverage Results" MODIFIED="1532143203661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$url_encode_decode.coverage" NAME="url_encode_decode Coverage Results" MODIFIED="1537758466207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$file_modification.coverage" NAME="file_modification Coverage Results" MODIFIED="1532924169098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$select_socket_client.coverage" NAME="select_socket_client Coverage Results" MODIFIED="1542205293751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$time1.coverage" NAME="time1 Coverage Results" MODIFIED="1533718712580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5/time_tests" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sys_tests.coverage" NAME="sys_tests Coverage Results" MODIFIED="1533826225490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_in_test_inherit_py.coverage" NAME="pytest in test_inherit.py Coverage Results" MODIFIED="1535019251302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study6" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gevent_socket_server.coverage" NAME="gevent_socket_server Coverage Results" MODIFIED="1537194031580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_in_decorator_py.coverage" NAME="pytest in decorator1.py Coverage Results" MODIFIED="1533180922367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main_test.coverage" NAME="main_test Coverage Results" MODIFIED="1533697806117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5/import_optimization" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sun_flower.coverage" NAME="sun_flower Coverage Results" MODIFIED="1532095126994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../py_program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sys_mod.coverage" NAME="sys_mod Coverage Results" MODIFIED="1532243906033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$select_socket_server.coverage" NAME="select_socket_server Coverage Results" MODIFIED="1539395560636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$func_test3.coverage" NAME="func_test3 Coverage Results" MODIFIED="1533023188110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$verification_code.coverage" NAME="verification_code Coverage Results" MODIFIED="1533735021964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_in_func_test5_py.coverage" NAME="pytest in func_test5.py Coverage Results" MODIFIED="1533127004184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1535167271140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5/atm/core" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$auth.coverage" NAME="auth Coverage Results" MODIFIED="1535166942467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4/atm/core" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$polymorphism.coverage" NAME="polymorphism Coverage Results" MODIFIED="1535104495273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study6" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_for_decorator3_test1.coverage" NAME="pytest for decorator3.test1 Coverage Results" MODIFIED="1533257115985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$xml_modify.coverage" NAME="xml_modify Coverage Results" MODIFIED="1533983809273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$func1_test.coverage" NAME="func1_test Coverage Results" MODIFIED="1533005329673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1535166473247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$threading_ex2.coverage" NAME="threading_ex2 Coverage Results" MODIFIED="1536718630597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study9" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$process_pool.coverage" NAME="process_pool Coverage Results" MODIFIED="1537148158556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$decorator2.coverage" NAME="decorator2 Coverage Results" MODIFIED="1533198227310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$producer_consumer_module.coverage" NAME="producer_consumer_module Coverage Results" MODIFIED="1537018268930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study9" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$with.coverage" NAME="with Coverage Results" MODIFIED="1532924482881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$func_test5.coverage" NAME="func_test5 Coverage Results" MODIFIED="1533043899717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$built_in_method.coverage" NAME="built_in_method Coverage Results" MODIFIED="1533455406191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sys.coverage" NAME="sys Coverage Results" MODIFIED="1532242134157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$grade.coverage" NAME="grade Coverage Results" MODIFIED="1535198718058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study6/subject_system/bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$decorator_end.coverage" NAME="decorator_end Coverage Results" MODIFIED="1533262805844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$rsa.coverage" NAME="rsa Coverage Results" MODIFIED="1542206900782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$inherit_school.coverage" NAME="inherit_school Coverage Results" MODIFIED="1535102673611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study6" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$threading_ex1.coverage" NAME="threading_ex1 Coverage Results" MODIFIED="1536718966983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study9" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$picture.coverage" NAME="picture Coverage Results" MODIFIED="1542270377382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$metaclass.coverage" NAME="metaclass Coverage Results" MODIFIED="1535525365819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$var2.coverage" NAME="var2 Coverage Results" MODIFIED="1532160437347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dog.coverage" NAME="dog Coverage Results" MODIFIED="1534931493341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study6" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_in_decorator3_py.coverage" NAME="pytest in decorator3.py Coverage Results" MODIFIED="1533214573438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1536402451816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study8/code/ftp_server/core" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$json_serialization.coverage" NAME="json_serialization Coverage Results" MODIFIED="1533457082513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cs_play.coverage" NAME="cs_play Coverage Results" MODIFIED="1535017998138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study6" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_for_decorator3_test2.coverage" NAME="pytest for decorator3.test2 Coverage Results" MODIFIED="1533214679372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$yield_ex.coverage" NAME="yield_ex Coverage Results" MODIFIED="1537156015003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$process_queue.coverage" NAME="process_queue Coverage Results" MODIFIED="1537069176399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$generator_parallel.coverage" NAME="generator_parallel Coverage Results" MODIFIED="1533297594775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1535167524422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4/atm/core" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dynamic_import_module.coverage" NAME="dynamic_import_module Coverage Results" MODIFIED="1536117977619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$json_deserialization.coverage" NAME="json_deserialization Coverage Results" MODIFIED="1533457120322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$guessage.coverage" NAME="guessage Coverage Results" MODIFIED="1532167901049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket_client_file.coverage" NAME="socket_client_file Coverage Results" MODIFIED="1536236965346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study8" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$xx.coverage" NAME="xx Coverage Results" MODIFIED="1537089164245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$global_local_variable.coverage" NAME="global_local_variable Coverage Results" MODIFIED="1533090561342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gaosi.coverage" NAME="gaosi Coverage Results" MODIFIED="1551234900453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$client.coverage" NAME="client Coverage Results" MODIFIED="1536454777934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study8/ftp_client/bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pipe_ex.coverage" NAME="pipe_ex Coverage Results" MODIFIED="1537079140665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$process_lock.coverage" NAME="process_lock Coverage Results" MODIFIED="1537085278390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$configure_cv2.coverage" NAME="configure_cv2 Coverage Results" MODIFIED="1551239514675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$configparser_create.coverage" NAME="configparser_create Coverage Results" MODIFIED="1537020579507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$selectors_module.coverage" NAME="selectors_module Coverage Results" MODIFIED="1539398058783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$xml_create.coverage" NAME="xml_create Coverage Results" MODIFIED="1533983812084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_for_func_test5_test8.coverage" NAME="pytest for func_test5.test8 Coverage Results" MODIFIED="1533126884845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$string.coverage" NAME="string Coverage Results" MODIFIED="1532485751830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$random_tests.coverage" NAME="random_tests Coverage Results" MODIFIED="1534150842405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pickle_serialization.coverage" NAME="pickle_serialization Coverage Results" MODIFIED="1533460487454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$decorator3.coverage" NAME="decorator3 Coverage Results" MODIFIED="1533257448553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$semaphore_ex.coverage" NAME="semaphore_ex Coverage Results" MODIFIED="1536978159632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study9" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1533436764474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$atm__1_.coverage" NAME="atm (1) Coverage Results" MODIFIED="1533630205506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5/atm/bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$reflection.coverage" NAME="reflection Coverage Results" MODIFIED="1535623766098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study7" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$selectView.coverage" NAME="selectView Coverage Results" MODIFIED="1535202345692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study6/homework/bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$rlock.coverage" NAME="rlock Coverage Results" MODIFIED="1536918345475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study9" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_in_func2_test_py.coverage" NAME="pytest in func2_test.py Coverage Results" MODIFIED="1533006902533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$threading_ex3.coverage" NAME="threading_ex3 Coverage Results" MODIFIED="1536736436839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study9" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$automatic_io_switch.coverage" NAME="automatic_io_switch Coverage Results" MODIFIED="1537170479587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$configparser_read.coverage" NAME="configparser_read Coverage Results" MODIFIED="1537020532236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$multiprocessing_ex.coverage" NAME="multiprocessing_ex Coverage Results" MODIFIED="1537065744888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study10" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/look_hat_program/look_hat_picture.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="e#17#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>D:\PycharmProjects\study4</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/study9/threading_ex4_lock.py" />
+        <option value="$PROJECT_DIR$/study9/rlock.py" />
+        <option value="$PROJECT_DIR$/study9/semaphore_ex.py" />
+        <option value="$PROJECT_DIR$/study9/red_green_light.py" />
+        <option value="$PROJECT_DIR$/study9/queue_ex.py" />
+        <option value="$PROJECT_DIR$/study9/producer_consumer_module.py" />
+        <option value="$PROJECT_DIR$/study10/multiprocessing.py" />
+        <option value="$PROJECT_DIR$/study10/multiprocessing_ex.py" />
+        <option value="$PROJECT_DIR$/study10/get_process_id.py" />
+        <option value="$PROJECT_DIR$/study10/process_queue.py" />
+        <option value="$PROJECT_DIR$/study10/pipe_ex.py" />
+        <option value="$PROJECT_DIR$/study10/manager_ex.py" />
+        <option value="$PROJECT_DIR$/study10/process_lock.py" />
+        <option value="$PROJECT_DIR$/study10/process_poll.py" />
+        <option value="$PROJECT_DIR$/study10/xx.py" />
+        <option value="$PROJECT_DIR$/study10/process_pool.py" />
+        <option value="$PROJECT_DIR$/study10/yield_ex.py" />
+        <option value="$PROJECT_DIR$/study10/greenlet_ex.py" />
+        <option value="$PROJECT_DIR$/study10/automatic_io_switch.py" />
+        <option value="$PROJECT_DIR$/study10/Internet_worm.py" />
+        <option value="$PROJECT_DIR$/study10/gevent_socket_server.py" />
+        <option value="$PROJECT_DIR$/study10/erl_encode_decode.py" />
+        <option value="$PROJECT_DIR$/study10/url_encode_decode.py" />
+        <option value="$PROJECT_DIR$/study10/base_ex.py" />
+        <option value="$PROJECT_DIR$/study10/replace_ex.py" />
+        <option value="$PROJECT_DIR$/study10/greenlet_coroutine.py" />
+        <option value="$PROJECT_DIR$/study10/rsa_ex.py" />
+        <option value="$PROJECT_DIR$/study10/gevent_socket_client.py" />
+        <option value="$PROJECT_DIR$/study10/select_socket_server.py" />
+        <option value="$PROJECT_DIR$/study10/selectors_module.py" />
+        <option value="$PROJECT_DIR$/study10/select_socket_client.py" />
+        <option value="$PROJECT_DIR$/study10/water1.py" />
+        <option value="$PROJECT_DIR$/study10/rsa.py" />
+        <option value="$PROJECT_DIR$/study10/picture.py" />
+        <option value="$PROJECT_DIR$/study10/gaosi.py" />
+        <option value="$PROJECT_DIR$/study10/jianjunzhi.py" />
+        <option value="$PROJECT_DIR$/study10/configure_cv2.py" />
+        <option value="$PROJECT_DIR$/lookpicture.py" />
+        <option value="$PROJECT_DIR$/lookpicture_program/lookpicture.py" />
+        <option value="$PROJECT_DIR$/lookpicture_program/lookpicture3.py" />
+        <option value="$PROJECT_DIR$/lookpicture_program/lookpicture2.py" />
+        <option value="$PROJECT_DIR$/xingrenruqin_program/look_xingren_picture.py" />
+        <option value="$PROJECT_DIR$/zhoujieruqin_program/look_intrusion_picture.py" />
+        <option value="$PROJECT_DIR$/zhoujieruqin_program/lookpicture3.py" />
+        <option value="$PROJECT_DIR$/look_face_program/look2.py" />
+        <option value="$PROJECT_DIR$/look_face_program/look_face_picture.py" />
+        <option value="$PROJECT_DIR$/zhoujieruqin_program/lookpicture2.py" />
+        <option value="$PROJECT_DIR$/zhoujieruqin_program/lookpicture.py" />
+        <option value="$PROJECT_DIR$/data_classification/img_classification.py" />
+        <option value="$PROJECT_DIR$/intrusion_program/look_intrusion_picture.py" />
+        <option value="$PROJECT_DIR$/look_hat_program/look_hat_picture.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="91" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="look_hat_program" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/PycharmProjects/study10/gevent_socket_client.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/study6/subject_system/db/grade" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects" />
+      <recent name="D:\PycharmProjects\zhoujieruqin_program" />
+      <recent name="D:\PycharmProjects\study10" />
+      <recent name="D:\PycharmProjects\study9" />
+      <recent name="D:\PycharmProjects\study8\code\ftp_client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\study8\ftp_client\core" />
+      <recent name="D:\PycharmProjects\study8\data" />
+      <recent name="D:\PycharmProjects\study4\study-atm" />
+      <recent name="D:\PycharmProjects\study4" />
+      <recent name="D:\PycharmProjects\study5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.look_hat_picture">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="img_classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_classification/img_classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="look_hat_picture" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/look_hat_program" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/look_hat_program/look_hat_picture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="look_intrusion_picture" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/intrusion_program" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intrusion_program/look_intrusion_picture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lookpicture2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zhoujieruqin_program" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhoujieruqin_program/lookpicture2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lookpicture3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zhoujieruqin_program" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhoujieruqin_program/lookpicture3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.look_hat_picture" />
+        <item itemvalue="Python.look_intrusion_picture" />
+        <item itemvalue="Python.lookpicture3" />
+        <item itemvalue="Python.lookpicture2" />
+        <item itemvalue="Python.img_classification" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf283002-c462-49bb-8eee-0ab7c3e5737c" name="Default" comment="" />
+      <created>1530184483598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530184483598</updated>
+      <workItem from="1548054915228" duration="979000" />
+      <workItem from="1548334393329" duration="680000" />
+      <workItem from="1548406562263" duration="2362000" />
+      <workItem from="1548420027543" duration="697000" />
+      <workItem from="1551100528604" duration="1032000" />
+      <workItem from="1551234640352" duration="275000" />
+      <workItem from="1551238970708" duration="229000" />
+      <workItem from="1551239317028" duration="199000" />
+      <workItem from="1551258125407" duration="337000" />
+      <workItem from="1551270375370" duration="31000" />
+      <workItem from="1551318693762" duration="263000" />
+      <workItem from="1552119419452" duration="19000" />
+      <workItem from="1552119525562" duration="1428000" />
+      <workItem from="1552126126735" duration="4065000" />
+      <workItem from="1552197133941" duration="7770000" />
+      <workItem from="1552219099478" duration="2190000" />
+      <workItem from="1552267124395" duration="1385000" />
+      <workItem from="1552307999106" duration="2501000" />
+      <workItem from="1552310664666" duration="37000" />
+      <workItem from="1552310881987" duration="22000" />
+      <workItem from="1552357825104" duration="5188000" />
+      <workItem from="1552445856744" duration="2473000" />
+      <workItem from="1552539105876" duration="2348000" />
+      <workItem from="1552620833629" duration="2635000" />
+      <workItem from="1552706388209" duration="3177000" />
+      <workItem from="1552814361646" duration="1249000" />
+      <workItem from="1552879152217" duration="1933000" />
+      <workItem from="1552974630130" duration="1720000" />
+      <workItem from="1553076295130" duration="1221000" />
+      <workItem from="1553160584301" duration="1335000" />
+      <workItem from="1553260620287" duration="479000" />
+      <workItem from="1553342908386" duration="882000" />
+      <workItem from="1553427847279" duration="571000" />
+      <workItem from="1553528948246" duration="407000" />
+      <workItem from="1553565361852" duration="1213000" />
+      <workItem from="1553570673087" duration="131000" />
+      <workItem from="1553664794624" duration="522000" />
+      <workItem from="1553749353753" duration="984000" />
+      <workItem from="1553847335705" duration="829000" />
+      <workItem from="1553856909491" duration="1924000" />
+      <workItem from="1554017133245" duration="1799000" />
+      <workItem from="1554081110861" duration="534000" />
+      <workItem from="1554186193234" duration="1274000" />
+      <workItem from="1554258678196" duration="9294000" />
+      <workItem from="1554270372950" duration="7969000" />
+      <workItem from="1554279870558" duration="8351000" />
+      <workItem from="1554342975403" duration="7040000" />
+      <workItem from="1554351428347" duration="670000" />
+      <workItem from="1554354776653" duration="579000" />
+      <workItem from="1554357648101" duration="1878000" />
+      <workItem from="1554371855888" duration="837000" />
+      <workItem from="1554379708083" duration="1438000" />
+      <workItem from="1554382353304" duration="1290000" />
+      <workItem from="1554442600748" duration="2856000" />
+      <workItem from="1554448893440" duration="708000" />
+      <workItem from="1554520346730" duration="2554000" />
+      <workItem from="1554558739652" duration="22000" />
+      <workItem from="1554626146241" duration="585000" />
+      <workItem from="1554634316757" duration="3034000" />
+      <workItem from="1554705856518" duration="314000" />
+      <workItem from="1554710312543" duration="8618000" />
+      <workItem from="1554777199752" duration="4492000" />
+      <workItem from="1554790155760" duration="297000" />
+      <workItem from="1554868038420" duration="2823000" />
+      <workItem from="1555079752115" duration="138000" />
+      <workItem from="1555202675190" duration="5482000" />
+      <workItem from="1555235944926" duration="2057000" />
+      <workItem from="1555490442830" duration="2399000" />
+      <workItem from="1555494496660" duration="4684000" />
+      <workItem from="1555566567024" duration="269000" />
+      <workItem from="1555982800419" duration="4159000" />
+      <workItem from="1556001421534" duration="4446000" />
+      <workItem from="1556071083187" duration="714000" />
+      <workItem from="1556629365882" duration="3014000" />
+      <workItem from="1556696549095" duration="11504000" />
+      <workItem from="1557119434450" duration="191000" />
+      <workItem from="1557383520301" duration="13338000" />
+      <workItem from="1558945989062" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_decorator3_py - 2018.08.02 at 20h 56m 18s.xml">
+      <configuration name="pytest in decorator3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_decorator3_test2 - 2018.08.02 at 20h 57m 36s.xml">
+      <configuration name="pytest for decorator3.test2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_decorator3_test2 - 2018.08.02 at 20h 58m 04s.xml">
+      <configuration name="pytest for decorator3.test2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_decorator3_test1 - 2018.08.02 at 20h 58m 45s.xml">
+      <configuration name="pytest for decorator3.test1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_decorator3_test1 - 2018.08.02 at 21h 02m 17s.xml">
+      <configuration name="pytest for decorator3.test1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_decorator3_test1 - 2018.08.03 at 08h 45m 27s.xml">
+      <configuration name="pytest for decorator3.test1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_inherit_py - 2018.08.23 at 18h 12m 19s.xml">
+      <configuration name="pytest in test_inherit.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_inherit_py - 2018.08.23 at 18h 13m 03s.xml">
+      <configuration name="pytest in test_inherit.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_inherit_py - 2018.08.23 at 18h 14m 14s.xml">
+      <configuration name="pytest in test_inherit.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_greenlet_coroutine_test2 - 2018.09.17 at 12h 27m 12s.xml">
+      <configuration name="pytest for greenlet_coroutine.test2" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="179377000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49739584" visible="true" weight="0.12178517" />
+      <window_info id="Structure" order="1" sideWeight="0.5026042" side_tool="true" weight="0.27836612" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.86913764" weight="0.41396934" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38894907" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.28060672" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20822622" side_tool="true" weight="0.2678331" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.7917738" visible="true" weight="0.19967267" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32879046" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" side_tool="true" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/study3/recursive_function.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/study3/recursive_function.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/study3/recursive_function.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/study3/recursive_function.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/study3/recursive_function.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/study3/recursive_function.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PycharmProjects$look_face_picture.coverage" NAME="look_face_picture Coverage Results" MODIFIED="1554278862182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/look_face_program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lookpicture3.coverage" NAME="lookpicture3 Coverage Results" MODIFIED="1557388519684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhoujieruqin_program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$look_hat_picture.coverage" NAME="look_hat_picture Coverage Results" MODIFIED="1555207308543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/look_hat_program" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/study10/replace_ex.py" />
+    <entry file="file://$PROJECT_DIR$/study10/base_ex.py" />
+    <entry file="file://$PROJECT_DIR$/study10/greenlet_coroutine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study10/process_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProgramData/Anaconda3/Lib/rsa/key.py" />
+    <entry file="file://$PROJECT_DIR$/study10/get_process_id.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study10/rsa_ex.py" />
+    <entry file="file://$PROJECT_DIR$/../ProgramData/Anaconda3/Lib/queue.py" />
+    <entry file="file://$PROJECT_DIR$/study10/select_socket_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study10/select_socket_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study10/selectors_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study10/noise_image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study10/rsa.py" />
+    <entry file="file://$PROJECT_DIR$/study10/gaosi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study10/picture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#20#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study10/aes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="269" column="32" selection-start-line="269" selection-start-column="32" selection-end-line="269" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study10/gevent_socket_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study10/jianjunzhi.py" />
+    <entry file="file://$PROJECT_DIR$/study10/configure_cv2.py" />
+    <entry file="file://$PROJECT_DIR$/study9/rlock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study10/pipe_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study10/automatic_io_switch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lookpicture.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_umd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lookpicture_program/run.bat" />
+    <entry file="file://$PROJECT_DIR$/lookpicture_program/distortions/area_Area_A6_94_20190314080639_627587.jpg" />
+    <entry file="file://$PROJECT_DIR$/lookpicture_program/distortions/area_Area_R10_136_20190314191611_184314.jpg" />
+    <entry file="file://$PROJECT_DIR$/lookpicture_program/lookpicture.py" />
+    <entry file="file://$PROJECT_DIR$/lookpicture_program/lookpicture3.py" />
+    <entry file="file://$PROJECT_DIR$/lookpicture_program/lookpicture2.py" />
+    <entry file="file://$PROJECT_DIR$/xingrenruqin_program/look_xingren_picture.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhoujieruqin_program/look_intrusion_picture.py" />
+    <entry file="file://$PROJECT_DIR$/study2/copy_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study2/lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/look_face_program/look2.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Anaconda3/Lib/site-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="3266" selection-start-line="3266" selection-end-line="3266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study1/coding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/look_face_program/look_face_picture.py" />
+    <entry file="file://$PROJECT_DIR$/study1/guessage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study1/password.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChangeLabel/XML/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/ChangeLabel/regularXml.py" />
+    <entry file="file://$PROJECT_DIR$/data_classification/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhoujieruqin_program/lookpicture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+          <folding>
+            <element signature="e#17#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_classification/img_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhoujieruqin_program/lookpicture3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhoujieruqin_program/lookpicture2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+          <folding>
+            <element signature="e#17#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intrusion_program/look_intrusion_picture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="e#17#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/look_hat_program/look_hat_picture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#17#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

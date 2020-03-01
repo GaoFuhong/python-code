@@ -1,0 +1,29 @@
+# Author:Fuhong Gao
+import __init__
+import sys
+import role
+from login import loginF
+if __name__=='__main__':
+    while True:
+        print('''
+        =====================================
+        请选择角色：
+            1、管理员
+            2、学校
+            3、讲师
+            4、学生
+        =====================================
+        ''')
+        data=input('输入序号即可：')
+        if data=='1':
+            loginF(data)
+        elif data=='2':
+            loginF(data)
+        elif data=='3':
+            loginF(data)
+        elif data=='4':
+            loginF(data)
+        elif data=='Q' or data=='q':
+            exit(1)
+        else:
+            print('无效字符，请重新输入')

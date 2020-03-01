@@ -1,0 +1,8 @@
+admin 123 1
+guo guo 1
+school 123 2
+guo guo 2
+teacher 123 3
+guo guo 3
+student 123 4
+guo guo 4
